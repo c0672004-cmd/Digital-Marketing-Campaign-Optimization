@@ -2,7 +2,7 @@
 
 An end-to-end data analysis and business intelligence project evaluating a digital marketing campaign dataset of 8,000 customers. This project identifies core operational insights, user engagement behaviors, and multi-channel marketing performance to maximize corporate conversion ROI. 
 
-📊 **[View Interactive Dashboard Preview](dashboard.png)** | 💼 **[Connect on LinkedIn](www.linkedin.com/in/coco-wei-data)**
+📊 **[View Interactive Dashboard Preview](dashboard.png)** | 💼 **[Connect on LinkedIn](http://www.linkedin.com/in/coco-wei-data)**
 
 ---
 
